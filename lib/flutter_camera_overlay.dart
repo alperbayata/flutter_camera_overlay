@@ -62,7 +62,7 @@ class _FlutterCameraOverlayState extends State<CameraOverlay> {
           width: double.infinity,
           child: const Align(
             alignment: Alignment.center,
-            child: Text('loading camera'),
+            child: Text('Kamera Yükleniyor..'),
           ),
         );
 
